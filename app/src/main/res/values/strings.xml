@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KeepSaufing</string>
+    <string name="btnPlus">Add Player</string>
+    <string name="btnGo">Start Drinking</string>
+    <string name="btnNext">NEXT</string>
+    <string name="notenoughplayers">You need at least 2 players to play!</string>
+    <string name="activeruletext">Aktive Regel:</string>
+    <string name="activerule">KEINE</string>
+    <string name="newrule">NEUE REGEL</string>
+    <string name="game">GAME</string>
+    <string name="standard">STANDARD</string>
+    <string name="wildcard">here there be dragons</string>
+    <string name="debug">bloß Debuggedönse hier, move along</string>
+</resources>
